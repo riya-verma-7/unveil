@@ -1,0 +1,12 @@
+.tracker{
+    width: 90%;
+    margin: auto;
+    background-image: url(/trackerbg.png);
+    border-radius: 20px;
+}
+.logo {
+    width: 100px;
+}
+.gap{
+    margin-top: 50px;
+}

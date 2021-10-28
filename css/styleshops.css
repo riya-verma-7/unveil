@@ -1,0 +1,33 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: auto; */
+   
+}
+
+iframe {
+    border-radius: 5%;
+    margin-top: 2rem;
+    
+}
+
+/* body {
+    
+} */
+
+.shops-para{
+    text-align: center;
+    color: crimson;
+    font-size: 1rem;
+}
+
+.shops-head{
+    color: crimson;
+    padding: 2rem;
+}
+.shops-row{
+    width: 90%;
+    background-image: url(/playlistbg.png);
+    border-radius: 20px;
+}
