@@ -182,6 +182,11 @@ hr {
   #masterSongName{
     display: none;
   }
+  .songInfo{
+
+    position: absolute;
+      left: 1vw;
+  }
 
 }
 
@@ -209,7 +214,15 @@ hr {
   #masterSongName{
     display: none;
   }
-  
+  .songInfo{
+
+    position: absolute;
+      left: 3vw;
+  }
+  .songItem{
+    padding-right: 30px;
+    width: 200px;
+  }
   
 }
 
