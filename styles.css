@@ -224,6 +224,10 @@ hr {
     width: 200px;
   }
   
+  input[type="range"] {
+    width:150px !important;
+  }
+  
 }
 
 @media (min-width: 500px) and (max-width: 800px) {
